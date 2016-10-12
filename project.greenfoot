@@ -1,11 +1,36 @@
 #Greenfoot properties
-#Wed Oct 12 10:28:39 CDT 2016
-class.MyWorld.image=Wall.jpg
-mainWindow.width=850
-class.MyWorld.superclass=greenfoot.World
+#Wed Oct 12 10:55:20 CDT 2016
+target1.type=ClassTarget
 project.charset=UTF-8
+mainWindow.height=876
+editor.fx.0.width=700
+readme.y=10
+readme.x=10
+editor.swing.0.y=0
+editor.swing.0.x=0
 version=2.8.0
+readme.height=58
+class.MyWorld.image=Wall.jpg
+target1.typeParameters=
 world.lastInstantiated=MyWorld
-mainWindow.y=40
-mainWindow.x=40
-mainWindow.height=600
+class.MyWorld.superclass=greenfoot.World
+target1.height=50
+class.Carro.superclass=greenfoot.Actor
+mainWindow.y=-8
+editor.fx.0.y=0
+target1.width=80
+editor.fx.0.x=0
+mainWindow.x=-8
+editor.swing.0.height=0
+readme.width=47
+editor.fx.0.height=700
+editor.swing.0.width=0
+package.numDependencies=0
+target1.y=10
+target1.x=70
+mainWindow.width=1616
+package.numTargets=1
+target1.name=MyWorld
+target1.showInterface=false
+readme.name=@README
+class.Carro.image=car02-n.png
