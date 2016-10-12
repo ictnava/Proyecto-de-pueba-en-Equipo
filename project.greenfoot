@@ -1,6 +1,14 @@
 #Greenfoot properties
+<<<<<<< HEAD
 #Wed Oct 12 10:55:20 CDT 2016
 target1.type=ClassTarget
+=======
+#Wed Oct 12 10:56:00 CDT 2016
+mainWindow.width=850
+class.MyWorld.image=Wall.jpg
+class.butterfly.superclass=greenfoot.Actor
+class.MyWorld.superclass=greenfoot.World
+>>>>>>> origin/master
 project.charset=UTF-8
 mainWindow.height=876
 editor.fx.0.width=700
